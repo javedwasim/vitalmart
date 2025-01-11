@@ -10,6 +10,27 @@
     <option name="highlightLevel" value="WARNING" />
     <option name="transferred" value="true" />
   </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/storage/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/storage/vendor/scssphp/scssphp" />
+      <path value="$PROJECT_DIR$/storage/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/storage/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/storage/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/storage/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/storage/vendor/aws/aws-crt-php" />
+      <path value="$PROJECT_DIR$/storage/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/storage/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/storage/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/storage/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/storage/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/storage/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/storage/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/storage/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/storage/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/storage/vendor/composer" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
     <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
