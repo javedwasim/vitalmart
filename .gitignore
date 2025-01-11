@@ -3,6 +3,10 @@
 
 # Ignore storage directory
 storage/
+storage/cache/*
+
+# Ignore image cache
+image/cache/*
 
 # Ignore configuration files
 config.php
@@ -18,3 +22,6 @@ vendor/
 
 # Ignore environment files
 .env
+
+# Ignore generated Bootstrap CSS
+admin/view/stylesheet/bootstrap.css
