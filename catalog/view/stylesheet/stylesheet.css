@@ -1,3 +1,9 @@
+:root {
+  --custom-active-color: #ffffff; /* White text */
+  --custom-active-bg: #e66a00; /* Green background */
+  --custom-active-border: #e66a00; /* Darker green border */
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
@@ -257,7 +263,7 @@ footer a {
 }
 #menu .dropdown-inner ul li a:hover {
   color: #ffffff;
-  background-image: linear-gradient(to bottom, #e66a00, #1f90bb);
+  background-image: linear-gradient(to bottom, #e66a00, #e66a00);
 }
 #menu .dropdown-inner a {
   min-width: 160px;
@@ -282,7 +288,7 @@ footer a {
   text-decoration: none;
   color: #ffffff;
   background-color: #229ac8;
-  background-image: linear-gradient(to bottom, #e66a00, #1f90bb);
+  background-image: linear-gradient(to bottom, #fbb450, #f89406);
   background-repeat: repeat-x;
 }
 #menu #category {
@@ -434,9 +440,9 @@ footer h5 {
 .btn-primary {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-image: linear-gradient(to bottom, #e66a00, #1f90bb);
+  background-image: linear-gradient(to bottom, #e66a00, #e66a00);
   background-repeat: repeat-x;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border-color: #e66a00 #e66a00 #e66a00;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
   background-position: 0;
@@ -444,7 +450,7 @@ footer h5 {
 .btn-warning {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-image: linear-gradient(to bottom, #fbb450, #f89406);
+  background-image: linear-gradient(to bottom, #e66a00, #e66a00);
   background-repeat: repeat-x;
   border-color: #f89406 #f89406 #ad6704;
 }
@@ -454,7 +460,7 @@ footer h5 {
 .btn-danger {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-image: linear-gradient(to bottom, #ee5f5b, #bd362f);
+  background-image: linear-gradient(to bottom, #e66a00, #e66a00);
   background-repeat: repeat-x;
   border-color: #bd362f #bd362f #802420;
 }
@@ -497,13 +503,13 @@ footer h5 {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   background-color: #363636;
-  background-image: linear-gradient(to bottom, #444444, #222222);
+  background-image: linear-gradient(to bottom, #e66a00, #e66a00);
   background-repeat: repeat-x;
-  border-color: #222222 #222222 #000000;
+  border-color: #e66a00 #e66a00 #e66a00;
 }
 .btn-inverse:hover, .btn-inverse:focus, .btn-inverse:active, .btn-inverse.active, .btn-inverse.disabled, .btn-inverse[disabled] {
-  background-color: #222222;
-  background-image: linear-gradient(to bottom, #333333, #111111);
+  background-color: #f89406;
+  background-image: linear-gradient(to bottom, #f89406, #f89406);
 }
 .product-thumb {
   border: 1px solid #ddd;
@@ -608,9 +614,9 @@ footer h5 {
   color: #FFF;
   padding: 6px 12px;
   background-color: #229ac8;
-  background-image: linear-gradient(to bottom, #e66a00, #1f90bb);
+  background-image: linear-gradient(to bottom, #e66a00, #e66a00);
   background-repeat: repeat-x;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border-color: #f89406 #f89406 #ad6704;
 }
 .form-check .form-check-input {
   margin-top: 0.25rem;
@@ -641,4 +647,15 @@ footer h5 {
 #cookie div {
   font-size: 16px;
   color: #FFFFFF;
+}
+
+.list-group-item.active {
+  z-index: 2;
+  color: var(--custom-active-color);
+  background-color: var(--custom-active-bg);
+  border-color: var(--custom-active-border);
+}
+
+.header-cart .dropdown{
+  background-color: var(--custom-active-bg) !important;
 }
