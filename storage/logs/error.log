@@ -1,0 +1,2412 @@
+2025-01-11 07:46:51 - PHP Warning: mkdir(): Permission denied
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 196
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/backup/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/cache.currency.c5c18028d03262f0feeb2bf646fb83f1.1736406663): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/cache.language.4ab6fc1e6e1e7fd0d80be63206cc592f.1736406663): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/cache.language.7fa80dd4fa95bfff83bda8543f986b65.1736410964): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/cache.product.5f953bc33d957149740d24c725ff8b78.1736406682): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/cache.store.f4e59086bfd5322620dbd8df0fc3e3e6.1736410974): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/download/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/logs/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/marketplace/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/marketplace/oc_language_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/marketplace/oc_payment_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/marketplace/oc_theme_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/marketplace/opencart.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/session/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/upload/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/autoload.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/bin/jp.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/bin/jp.php.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/bin/pscss): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/bin/pscss.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/ClassLoader.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/InstalledVersions.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_classmap.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_files.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_namespaces.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_psr4.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_static.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/installed.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/installed.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/composer/platform_check.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/02/02ff34aff5fe6978b625a615c10c6cef.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/1c/1ce477c1db6a6b5362742b851b7464f0.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/3a/3a091d245235556a4d0bf8aad9b00e05.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/3a/3acb9ead1bdd201fd4540676bc52a8a6.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/4a/4a344e159668f01d03ecc5de306a08c1.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/4b/4bf52d553f4e2353ab9dad879fd5975f.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/4e/4e72e9c3a3c9f89852ed168d79f4a5d7.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/4f/4fe56a39fb539130d654a2eb7008b52d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/5d/5dbc59f89ec8b5e10ee7420b59cfd840.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/69/69df2116bd8e4e5939194298800a2381.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/77/77eee8c3e072cea904464b739632aa49.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/7b/7b89787ce13023ce0d8833f97fb4f8e2.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/8d/8db8b74bc53f010bbfb22dc86460b861.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/94/94ce9efdd36f36f21236f4b5afea66e9.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/9a/9a6483c809c9bcb931ba8153ad460ffb.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/9a/9ad4bae73cb4bf46f60526427ca51055.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/9f/9f8d916dee26ca5ccbb0a9608a1e2cc7.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/a2/a227cebc93124b806042d00142caa5ff.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/a9/a9665cf806b0c0ae3f371a66b7a98e2d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/b3/b3587ab6328d00cc7bd4a533926d340a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/b7/b70244ca24ef0773e8e268504d824e58.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/b9/b979df6e75b3164404918dfc074fab1e.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/bb/bb9e450100461140e57b5ea55bdb9746.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/bf/bfe5a382b883a42dd7d594334fc96e9a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/c1/c1edb396b83158d1d127fbab5f7a818e.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/c8/c85563109070bb3c068d0cf86fc7ec1c.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/c9/c97aecfe0ef50c2810ecd4565eedf892.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/ca/ca6bdb3e42028e46f75a1e03bb8e807a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/cc/cc5a5d24120fcb3abb03ed2f46cb10b3.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/ce/ce3435507d94593cb493856eb2b9b9b1.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/da/dae7747c05943221130634f466d7b1f3.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/e0/e0575f5f0a8bf81fd4c65764dac09d4b.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/e1/e13892f07aec2a23487a41a36941afa4.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/e2/e2c18e98d4c027e54a9ad084a7ccc99c.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/e4/e4ea4866a6ba80aa1adac6b4f7476f35.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/e5/e5e6d90f7930e960328812cc65016fbd.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/e8/e89e372bf0047b69073f59bec8118da0.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/f1/f1499916afbb514bb342e74f18b0184d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/f6/f614cec67e501b3f1a39006837a5447a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/cache/template/fe/fef56f5a79e4510e38c870dd3af606bc.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/CODE_OF_CONDUCT.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/CONTRIBUTING.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/Makefile.frag): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/Makefile.frag.w32): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/NOTICE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/builder.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/config.m4): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/config.w32): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/format-check.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/gen_api.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/gen_stub.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/package.xml-template_post): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/package.xml-template_pre): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/php-win.ini): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/php.ini): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/prepare_package_xml.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/prepare_release.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/run_tests): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/run_tests.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.clang-format): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.clang-format-ignore): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.gitignore): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.gitmodules): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/CODE_OF_CONDUCT.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/CRT_INSTRUCTIONS.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/NOTICE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/THIRD-PARTY-LICENSES): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/CHANGELOG.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/UPGRADING.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/CHANGELOG.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/CHANGELOG.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:46:51 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): Permission denied
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 196
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/backup/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/cache.currency.c5c18028d03262f0feeb2bf646fb83f1.1736406663): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/cache.language.4ab6fc1e6e1e7fd0d80be63206cc592f.1736406663): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/cache.language.7fa80dd4fa95bfff83bda8543f986b65.1736410964): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/cache.product.5f953bc33d957149740d24c725ff8b78.1736406682): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/cache.store.f4e59086bfd5322620dbd8df0fc3e3e6.1736585268): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/download/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/logs/error.log): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/logs/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/marketplace/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/marketplace/oc_language_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/marketplace/oc_payment_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/marketplace/oc_theme_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/marketplace/opencart.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/session/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/upload/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/autoload.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/bin/jp.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/bin/jp.php.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/bin/pscss): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/bin/pscss.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/ClassLoader.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/InstalledVersions.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_classmap.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_files.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_namespaces.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_psr4.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_static.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/installed.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/installed.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/composer/platform_check.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/02/02ff34aff5fe6978b625a615c10c6cef.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/1c/1ce477c1db6a6b5362742b851b7464f0.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/3a/3a091d245235556a4d0bf8aad9b00e05.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/3a/3acb9ead1bdd201fd4540676bc52a8a6.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/4a/4a344e159668f01d03ecc5de306a08c1.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/4b/4bf52d553f4e2353ab9dad879fd5975f.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/4e/4e72e9c3a3c9f89852ed168d79f4a5d7.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/4f/4fe56a39fb539130d654a2eb7008b52d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/5d/5dbc59f89ec8b5e10ee7420b59cfd840.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/69/69df2116bd8e4e5939194298800a2381.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/77/77eee8c3e072cea904464b739632aa49.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/7b/7b89787ce13023ce0d8833f97fb4f8e2.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/8d/8db8b74bc53f010bbfb22dc86460b861.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/94/94ce9efdd36f36f21236f4b5afea66e9.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/9a/9a6483c809c9bcb931ba8153ad460ffb.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/9a/9ad4bae73cb4bf46f60526427ca51055.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/9f/9f8d916dee26ca5ccbb0a9608a1e2cc7.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/a2/a227cebc93124b806042d00142caa5ff.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/a9/a9665cf806b0c0ae3f371a66b7a98e2d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/b3/b3587ab6328d00cc7bd4a533926d340a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/b7/b70244ca24ef0773e8e268504d824e58.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/b9/b979df6e75b3164404918dfc074fab1e.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/bb/bb9e450100461140e57b5ea55bdb9746.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/bf/bfe5a382b883a42dd7d594334fc96e9a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/c1/c1edb396b83158d1d127fbab5f7a818e.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/c8/c85563109070bb3c068d0cf86fc7ec1c.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/c9/c97aecfe0ef50c2810ecd4565eedf892.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/ca/ca6bdb3e42028e46f75a1e03bb8e807a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/cc/cc5a5d24120fcb3abb03ed2f46cb10b3.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/ce/ce3435507d94593cb493856eb2b9b9b1.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/da/dae7747c05943221130634f466d7b1f3.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/e0/e0575f5f0a8bf81fd4c65764dac09d4b.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/e1/e13892f07aec2a23487a41a36941afa4.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/e2/e2c18e98d4c027e54a9ad084a7ccc99c.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/e4/e4ea4866a6ba80aa1adac6b4f7476f35.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/e5/e5e6d90f7930e960328812cc65016fbd.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/e8/e89e372bf0047b69073f59bec8118da0.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/f1/f1499916afbb514bb342e74f18b0184d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/f6/f614cec67e501b3f1a39006837a5447a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/cache/template/fe/fef56f5a79e4510e38c870dd3af606bc.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/CODE_OF_CONDUCT.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/CONTRIBUTING.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/Makefile.frag): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/Makefile.frag.w32): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/NOTICE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/builder.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/config.m4): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/config.w32): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/format-check.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/gen_api.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/gen_stub.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/package.xml-template_post): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/package.xml-template_pre): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/php-win.ini): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/php.ini): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/prepare_package_xml.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/prepare_release.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/run_tests): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/run_tests.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.clang-format): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.clang-format-ignore): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.gitignore): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.gitmodules): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/CODE_OF_CONDUCT.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/CRT_INSTRUCTIONS.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/NOTICE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/THIRD-PARTY-LICENSES): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/CHANGELOG.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/UPGRADING.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/guzzle/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/CHANGELOG.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/promises/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/CHANGELOG.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:47:52 - PHP Warning: copy(/var/www/storage/vendor/guzzlehttp/psr7/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): Permission denied
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 196
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/backup/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/cache/cache.currency.c5c18028d03262f0feeb2bf646fb83f1.1736406663): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/cache/cache.language.4ab6fc1e6e1e7fd0d80be63206cc592f.1736406663): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/cache/cache.language.7fa80dd4fa95bfff83bda8543f986b65.1736410964): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/cache/cache.product.5f953bc33d957149740d24c725ff8b78.1736406682): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/cache/cache.promotion.extension.1736668446): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/cache/cache.store.f4e59086bfd5322620dbd8df0fc3e3e6.1736585683): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/cache/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/download/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/logs/error.log): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/logs/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/marketplace/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/marketplace/oc_language_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/marketplace/oc_payment_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/marketplace/oc_theme_example.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/marketplace/opencart.ocmod.zip): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/session/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/upload/index.html): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/autoload.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/bin/jp.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/bin/jp.php.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/bin/pscss): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/bin/pscss.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/ClassLoader.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/InstalledVersions.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_classmap.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_files.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_namespaces.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_psr4.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:46 - PHP Warning: copy(/var/www/storage/vendor/composer/autoload_static.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/composer/installed.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/composer/installed.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/composer/platform_check.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/02/02ff34aff5fe6978b625a615c10c6cef.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/1c/1ce477c1db6a6b5362742b851b7464f0.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/3a/3a091d245235556a4d0bf8aad9b00e05.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/3a/3acb9ead1bdd201fd4540676bc52a8a6.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/4a/4a344e159668f01d03ecc5de306a08c1.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/4b/4bf52d553f4e2353ab9dad879fd5975f.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/4e/4e72e9c3a3c9f89852ed168d79f4a5d7.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/4e/4e8a7cf92e3ca9c44e146681024b5dcf.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/4f/4fe56a39fb539130d654a2eb7008b52d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/5d/5dbc59f89ec8b5e10ee7420b59cfd840.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/69/69df2116bd8e4e5939194298800a2381.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/77/77eee8c3e072cea904464b739632aa49.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/7b/7b89787ce13023ce0d8833f97fb4f8e2.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/85/8550b8c880df53c09ebf398f61acd9ce.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/87/8782369a31caa9a2176af6d955e0f17a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/89/89d645ca8f81e0e9d2fa82c9843ce99c.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/8d/8db8b74bc53f010bbfb22dc86460b861.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/94/94ce9efdd36f36f21236f4b5afea66e9.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/9a/9a6483c809c9bcb931ba8153ad460ffb.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/9a/9ad4bae73cb4bf46f60526427ca51055.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/9f/9f8d916dee26ca5ccbb0a9608a1e2cc7.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/a2/a227cebc93124b806042d00142caa5ff.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/a9/a9665cf806b0c0ae3f371a66b7a98e2d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/b3/b3587ab6328d00cc7bd4a533926d340a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/b7/b70244ca24ef0773e8e268504d824e58.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/b9/b979df6e75b3164404918dfc074fab1e.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/ba/baa7a09e540d9e3ba0539594d748739b.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/bb/bb9e450100461140e57b5ea55bdb9746.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/bd/bda922f8d3cf6aa1d254761e11af13d7.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/bf/bfe5a382b883a42dd7d594334fc96e9a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/c1/c1edb396b83158d1d127fbab5f7a818e.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/c8/c85563109070bb3c068d0cf86fc7ec1c.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/c9/c97aecfe0ef50c2810ecd4565eedf892.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/ca/ca6bdb3e42028e46f75a1e03bb8e807a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/cc/cc5a5d24120fcb3abb03ed2f46cb10b3.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/ce/ce3435507d94593cb493856eb2b9b9b1.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/da/dae7747c05943221130634f466d7b1f3.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/e0/e0575f5f0a8bf81fd4c65764dac09d4b.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/e1/e13892f07aec2a23487a41a36941afa4.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/e2/e2ba38f9214021902d58167e6afbec6a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/e2/e2c18e98d4c027e54a9ad084a7ccc99c.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/e4/e4ea4866a6ba80aa1adac6b4f7476f35.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/e5/e5e6d90f7930e960328812cc65016fbd.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/e8/e89e372bf0047b69073f59bec8118da0.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/f1/f1499916afbb514bb342e74f18b0184d.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/f6/f614cec67e501b3f1a39006837a5447a.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/f7/f79bf7bb9fd4431e7263ff1f9dc1827f.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/cache/template/fe/fef56f5a79e4510e38c870dd3af606bc.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/CODE_OF_CONDUCT.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/CONTRIBUTING.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/Makefile.frag): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/Makefile.frag.w32): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/NOTICE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/README.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/builder.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/config.m4): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/config.w32): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/format-check.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/gen_api.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/gen_stub.php): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/package.xml-template_post): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/package.xml-template_pre): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/php-win.ini): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/php.ini): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/prepare_package_xml.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/prepare_release.sh): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/run_tests): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/run_tests.bat): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.clang-format): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.clang-format-ignore): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.gitignore): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-crt-php/.gitmodules): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/CODE_OF_CONDUCT.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/CRT_INSTRUCTIONS.md): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/LICENSE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/NOTICE): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/THIRD-PARTY-LICENSES): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: copy(/var/www/storage/vendor/aws/aws-sdk-php/composer.json): Failed to open stream: No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 214
+
+2025-01-11 07:54:47 - PHP Warning: mkdir(): No such file or directory
+File: /var/www/html/vitalmart/admin/controller/common/security.php
+Line: 210
+
