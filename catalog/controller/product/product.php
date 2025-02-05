@@ -507,7 +507,15 @@ class Product extends \Opencart\System\Engine\Controller {
 
 			$data['language'] = $this->config->get('config_language');
 
-			$data['column_left'] = $this->load->controller('common/column_left');
+            $data['product'] = [
+                'product_id'  => $product_info['product_id'],
+                'name'        => $product_info['name'],
+                'location'    => $product_info['location'],
+                'price'       => $product_info['price'],
+                'special'     => $product_info['special']
+            ];
+
+            $data['column_left'] = $this->load->controller('common/column_left');
 			$data['column_right'] = $this->load->controller('common/column_right');
 			$data['content_top'] = $this->load->controller('common/content_top');
 			$data['content_bottom'] = $this->load->controller('common/content_bottom');
